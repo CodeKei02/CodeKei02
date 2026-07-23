@@ -33,7 +33,6 @@
 ###
 
 <div data-importer="stats">
-  <img src="https://raw.githubusercontent.com/CodeKei02/codekei/stats-output/stats.svg" height="220" alt="GitHub stats" />
   <img src="https://raw.githubusercontent.com/CodeKei02/codekei/languages-output/languages.svg" height="220" alt="Top languages" />
 </div>
 
